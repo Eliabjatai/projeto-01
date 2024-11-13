@@ -1,0 +1,10 @@
+body {
+    font-family: "OPen Sans", sans-serif;
+    background-image: url(arquivos/bg.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+    
+    }
